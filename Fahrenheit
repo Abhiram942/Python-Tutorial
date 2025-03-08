@@ -1,0 +1,5 @@
+n=float(input())
+
+F=(((9*n)/5+32))
+f=round(F,1)
+print(f)
